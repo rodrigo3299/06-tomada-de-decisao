@@ -20,13 +20,7 @@ public class ex5 {
         else{
             System.out.println("Os valores não formam um trinagulo");
         }
-        if( lado1 > lado2 + lado3 && lado2 > lado1 + lado3 && lado3 > lado1 + lado3)
-        {
-            System.out.println("Os valores não formam um trinagulo");
-        }
-        else{
-            System.out.println("Os valores formam um trinagulo");
-        }
+
 
 
 
